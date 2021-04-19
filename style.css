@@ -1,0 +1,19 @@
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+body{
+    background-color: lavender;
+}
+.name_of_objects{
+    font-size: 25px;
+    background-color: lightgoldenrodyellow;
+}
+#camera , #result{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+#result_object_name,#result_objrct_accuracy{
+    font-size: 25px;  
+}
